@@ -1,15 +1,17 @@
-------------------------
-Start List of variables
+Codebook for Samsung Accelerometer Analysis
+===========================================
+
+List of variables
 ------------------------
 "avg_tBodyAccmeanX"
-Desc: Mean of Time component on Body Acceleration in X direction. Further, Average was generated  by grouping subject_id and activity 
-Values: [-1,1]
-Units: NA
+- Desc: Mean of Time component on Body Acceleration in X direction. Further, Average was generated  by grouping subject_id and activity 
+- Values: [-1,1]
+- Units: NA
 
 "avg_tBodyAccmeanY"
-Desc: Mean of Time component on Body Acceleration in Y direction. Further, Average was generated  by grouping subject_id and activity 
-Values: [-1,1]
-Units: NA
+- Desc: Mean of Time component on Body Acceleration in Y direction. Further, Average was generated  by grouping subject_id and activity 
+- Values: [-1,1]
+- Units: NA
 
 "avg_tBodyAccmeanZ"
 Desc: Mean of Time component on Body Acceleration in Z direction. Further, Average was generated  by grouping subject_id and activity 
