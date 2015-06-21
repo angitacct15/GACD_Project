@@ -13,6 +13,7 @@
 ##############################
 
 #install.packages("dplyr") # uncomment this if you see missing dplyr package error on ur machine
+#install.packages("sqldf") # uncomment this if you see missing sqldf package error on ur machine
 library(sqldf)
 library(dplyr)
 
